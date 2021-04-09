@@ -1,0 +1,47 @@
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\FlappyBirdClone\obj\x86\Debug\AnthonyChangFinalProject.csprojAssemblyReference.cache
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\FlappyBirdClone\obj\x86\Debug\AnthonyChangFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\FlappyBirdClone\obj\x86\Debug\FlappyBirdClone.exe
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\FlappyBirdClone\obj\x86\Debug\FlappyBirdClone.pdb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\FlappyBirdClone.exe
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\FlappyBirdClone.pdb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\obj\x86\Debug\AnthonyChangFinalProject.csprojAssemblyReference.cache
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\obj\x86\Debug\AnthonyChangFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\obj\x86\Debug\AnthonyChangFinalProject.csproj.CopyComplete
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\obj\x86\Debug\FlappyBirdClone.exe
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\obj\x86\Debug\FlappyBirdClone.pdb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Caketown1.wma
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\BirdFlap.wma
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Coin.wma
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\music\BirdFlap.wma
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\music\Caketown 1.wma
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\music\Coin.wma
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\images\FlappySpriteSheet.xnb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Sounds\BirdFlap.xnb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Sounds\Caketown 1.xnb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Sounds\Coin.xnb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Caketown 1.xnb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Sounds\Caketown1.xnb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Sounds\hit.wma
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\Content\Sounds\hit.xnb
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\FlappyBirdClone.exe.manifest
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\bin\Windows\x86\Debug\FlappyBirdClone.application
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\obj\x86\Debug\FlappyBirdClone.exe.manifest
+C:\Users\Tony\Desktop\GameProgrammingAssignment 4\AnthonyChangFinalProject\AnthonyChangFinalProject\obj\x86\Debug\FlappyBirdClone.application

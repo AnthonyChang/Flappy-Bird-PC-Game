@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Tony/Desktop/GameProgrammingAssignment 4/AnthonyChangFinalProject/AnthonyChangFinalProject/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/Tony/Desktop/GameProgrammingAssignment 4/AnthonyChangFinalProject/AnthonyChangFinalProject/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/Tony/Desktop/GameProgrammingAssignment 4/AnthonyChangFinalProject/AnthonyChangFinalProject/Content/images/FlappySpriteSheet.png</File>
+    <File>C:/Users/Tony/Desktop/GameProgrammingAssignment 4/AnthonyChangFinalProject/AnthonyChangFinalProject/Content/Sounds/BirdFlap.mp3</File>
+    <File>C:/Users/Tony/Desktop/GameProgrammingAssignment 4/AnthonyChangFinalProject/AnthonyChangFinalProject/Content/Sounds/Caketown 1.mp3</File>
+    <File>C:/Users/Tony/Desktop/GameProgrammingAssignment 4/AnthonyChangFinalProject/AnthonyChangFinalProject/Content/Sounds/Coin.mp3</File>
+    <File>C:/Users/Tony/Desktop/GameProgrammingAssignment 4/AnthonyChangFinalProject/AnthonyChangFinalProject/Content/Sounds/hit.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Sounds/Caketown1.mp3</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

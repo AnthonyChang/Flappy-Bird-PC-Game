@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Tony/Desktop/GameProgrammingAssignment 4/AnthonyChangFinalProject/AnthonyChangFinalProject/Content/Sounds/hit.mp3</SourceFile>
+  <SourceTime>2018-12-12T20:27:34.2746061-05:00</SourceTime>
+  <DestFile>C:/Users/Tony/Desktop/GameProgrammingAssignment 4/AnthonyChangFinalProject/AnthonyChangFinalProject/Content/bin/Windows/Content/Sounds/hit.xnb</DestFile>
+  <DestTime>2018-12-12T21:59:22.2807598-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-09-23T17:55:52-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-23T17:55:52-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
